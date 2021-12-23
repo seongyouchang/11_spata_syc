@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>assignment2</title>
+    <link rel="stylesheet" href="css/profile.css"/>
+</head>
+<body>
+    <div class="container"></div>
+        <div class="pink-box"></div>
+            <div class="link">____</div>
+            <div
+            안녕하세요 저는 또치입니다! 저는 아프리카에서 온 암컷 타조에요. 원래는
+            라스베가스 서커스단에서 일했는데, 너무 힘들어서 관두고 둘리 일당에
+            합류했답니다!>
+            </div>
+        <img
+            class="photo1"
+            src="8bc9e381797334eb33da66e3ba501be197d839adc99ff1785fcd0ee848ab18e51804286d0466ce1951d4e8957e7cc0df49d9a8a054c286ded54a432829e01a12df099a72cfbfc1e56eb6a1c347352d336658b47446cb8caf2437676fa91cf6b11c8c0c2991bb771e339a237a5d.jpg"
+            alt="profile image"
+        />
+
+        <div class="white-box"></div>
+            <h3>또치</h3>
+            <div class="image"></div>
+                <div class="chat-icon"></div>
+                    <img class="icon" src="" alt="chat">
+
+</body>
+</html>
